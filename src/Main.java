@@ -4,7 +4,7 @@ public class Main {
         System.out.println("test");
         System.out.printf("");
 
-        String asdff="안명";
+        String asdff="안명321321321321";
         String asdfasdf="hello321321";
         for (int i = 0; i < 7; i++) {
 
