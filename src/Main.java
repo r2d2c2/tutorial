@@ -5,7 +5,7 @@ public class Main {
         System.out.printf("");
 
         String asdff="안명";
-        String asdfasdf="hello321312";
+        String asdfasdf="hello";
         for (int i = 0; i < 7; i++) {
 
         }
